@@ -32,6 +32,30 @@ My Future Projects:
  * Hosting Bots and other Things on my Home Servers
  * Creating a Web Server with my Home Server
 
+# HARDWARE
+
+Servers 1:
+ - Name: Truenas 
+ - CPU: i7 3770
+ - RAM: 24GB
+ - BOOT: SSD 120GB
+ - HDD: 3 x 4TB Ironwolf NAS (RAID Z1)
+ - Truenas Scale Server for local NAS
+ 
+Server 2:
+ - Name: Ubuntu Server 1
+ - CPU: i7 3770
+ - RAM: 24GB
+ - BOOT: SSD 120GB
+ - Dockering Server
+
+Server 3:
+ - Name Ubuntu Server 2
+ - CPU i7 3770
+ - RAM 16GB
+ - BOOT: SSD 120GB
+ - Dockering Server
+
 <!---
 MrFlathill/MrFlathill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
