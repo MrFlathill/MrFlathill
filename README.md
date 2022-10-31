@@ -13,6 +13,7 @@ My SKILLS and Experience:
  * Java Script (mostly APIs [Express], Web-based Code and other small Scripts)
  * Angular (i use it for a lot of Websites)
  * C (Linux based Scripts, smtp Server, and a lot more)
+ * Python (also for Scripting and Bot programming)
  * SQL (mostly in phpmyadmin)
  * Bash (little Scripts)
  * Linux GURU
