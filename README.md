@@ -47,14 +47,14 @@ Server 2:
  - CPU: i7 3770
  - RAM: 24GB
  - BOOT: SSD 120GB
- - Dockering Server
+ - Portainer Dockering Server
 
 Server 3:
  - Name Ubuntu Server 2
  - CPU i7 3770
  - RAM 16GB
  - BOOT: SSD 120GB
- - Dockering Server
+ - Portainer Dockering Server
 
 <!---
 MrFlathill/MrFlathill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
