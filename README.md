@@ -34,7 +34,7 @@ Finished Projects:
     - www.giku.it
 
 Ongoing Projects at the moment are: 
-- Webseite Hosting with Wordpress Cloudflare on my own Servers
+- Webseite Hosting with Wordpress and Cloudflare on my own Servers
  
 My Future Projects:
  * Self Hosted Mail Server 
