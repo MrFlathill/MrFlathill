@@ -24,7 +24,6 @@ My SKILLS and Experience:
 # Projects
 
 Finished Projects:
- - Creating NAS System with Raspberry (samba)
  - Coding a Discord Bot for listening to Music and other Funny commands.
  - Building A Stack of Servers for Dockering with Portainer and File Storage with Truenas Scale
  - Building Server Infastructure with Proxmox, Ubuntu VMs, Portainer and Trunas backup system.
