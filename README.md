@@ -41,7 +41,7 @@ My Future Projects:
 
 # HARDWARE
 
-Servers 1:
+Server 1:
  - Name: Truenas 
  - CPU: Ryzen 5 PRO 4650G
  - RAM: 32GB ECC
