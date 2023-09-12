@@ -18,7 +18,7 @@ My SKILLS and Experience:
  * SQL (mostly in phpmyadmin)
  * Bash (little Scripts)
  * Linux GURU
- * Wordpress (www.maxmendola.it www.clubmiro.com www.giku.it)
+ * Wordpress (www.maxmendola.it, www.clubmiro.com, www.giku.it)
 
 # Projects
 
