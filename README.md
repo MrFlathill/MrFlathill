@@ -6,7 +6,7 @@ I’m interested in following Things:
 
 1. Website Creation and Styling
 2. Hosting and experimenting with Servers
-3. Bot programming
+3. Cybersecurity
 
 My SKILLS and Experience:
  * Java (GUI and other things)
