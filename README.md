@@ -60,7 +60,7 @@ Server 2:
 Server 3:
  - Name Proxmox PVE2
  - CPU i7 3770
- - RAM 16GB
+ - RAM 24GB
  - BOOT: SSD 120GB
  - Storage: SSD 120GB
  - Proxmox Hypervisor for Virtual Machines
